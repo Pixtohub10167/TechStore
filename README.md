@@ -36,3 +36,9 @@ Content-Type: application/json
   "items": [ { "productId": 5, "quantity": 2 } ]
 }
 ```
+
+---
+
+## Статус сборки
+
+![build](https://github.com/Pixtohub10167/TechStore/actions/workflows/build.yml/badge.svg)
